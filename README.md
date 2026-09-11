@@ -1,8 +1,8 @@
-# IH745 Optativa V: Diseño de videojuegos II
+# IH743 Optativa Abierta III: Diseño de videojuegos II
 
-Índice de los proyectos de Optativa V (clave IH745, NRC 215267, sección D01), Licenciatura en Desarrollo de Sistemas Web, Universidad de Guadalajara, ciclo 2026-B.
+Índice de los proyectos de Optativa Abierta III, Diseño de videojuegos II (clave IH743, NRC 215440, sección D01), Licenciatura en Desarrollo de Sistemas Web, Universidad de Guadalajara, ciclo 2026-B.
 
-- Asesora: Nancy Ruiz Monroy.
+- Asesor: Oscar Gregorio Silva Mares.
 - Alumno: Hiram Agustín Acevedo López.
 - Versión de Unity utilizada: 6000.5.9f1 (Unity 6.5).
 
@@ -14,9 +14,9 @@ Por eso, los siguientes proyectos tendrán repositorios independientes. Dentro d
 
 | Actividad | Proyecto | Ubicación | Entrega |
 |---|---|---|---|
-| 1.4. Inicio del proyecto | Hola mundo (Universal 3D) | [u01-act4-hola-mundo](u01-act4-hola-mundo/) en este repositorio | [act-1.4](https://github.com/hiramAcevedo/ih745_Optativa_Diseno_Video_Juegos_II/tree/act-1.4) |
-| 2.1. La primera ventana | Aplicación interactiva 2D (Universal 2D) | [Repositorio de la unidad 2](https://github.com/hiramAcevedo/ih745_Aplicacion_Interactiva_2D) | [act-2.1](https://github.com/hiramAcevedo/ih745_Aplicacion_Interactiva_2D/tree/act-2.1) |
-| 2.2. El primer escenario | Aplicación interactiva 2D: Una noche junto al fuego | [Repositorio de la unidad 2](https://github.com/hiramAcevedo/ih745_Aplicacion_Interactiva_2D) | [act-2.2](https://github.com/hiramAcevedo/ih745_Aplicacion_Interactiva_2D/tree/act-2.2) |
+| 1.4. Inicio del proyecto | Hola mundo (Universal 3D) | [u01-act4-hola-mundo](u01-act4-hola-mundo/) en este repositorio | [act-1.4](https://github.com/hiramAcevedo/ih743_Optativa_Diseno_Video_Juegos_II/tree/act-1.4) |
+| 2.1. La primera ventana | Aplicación interactiva 2D (Universal 2D) | [Repositorio de la unidad 2](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D) | [act-2.1](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D/tree/act-2.1) |
+| 2.2. El primer escenario | Aplicación interactiva 2D: Una noche junto al fuego | [Repositorio de la unidad 2](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D) | [act-2.2](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D/tree/act-2.2) |
 
 El proyecto de la unidad 2 continúa hasta la actividad 2.6. Las unidades 3 y 4 tendrán sus propios proyectos conforme a sus enunciados; se añadirán al índice cuando se inicien.
 
@@ -25,7 +25,7 @@ El proyecto de la unidad 2 continúa hasta la actividad 2.6. Las unidades 3 y 4 
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/hiramAcevedo/ih745_Optativa_Diseno_Video_Juegos_II.git
+   git clone https://github.com/hiramAcevedo/ih743_Optativa_Diseno_Video_Juegos_II.git
    ```
 
 2. En Unity Hub, ve a Projects > Add > Add project from disk.
