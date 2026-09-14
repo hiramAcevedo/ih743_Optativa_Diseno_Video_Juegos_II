@@ -17,6 +17,7 @@ Por eso, los siguientes proyectos tendrán repositorios independientes. Dentro d
 | 1.4. Inicio del proyecto | Hola mundo (Universal 3D) | [u01-act4-hola-mundo](u01-act4-hola-mundo/) en este repositorio | [act-1.4](https://github.com/hiramAcevedo/ih743_Optativa_Diseno_Video_Juegos_II/tree/act-1.4) |
 | 2.1. La primera ventana | Aplicación interactiva 2D (Universal 2D) | [Repositorio de la unidad 2](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D) | [act-2.1](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D/tree/act-2.1) |
 | 2.2. El primer escenario | Aplicación interactiva 2D: Una noche junto al fuego | [Repositorio de la unidad 2](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D) | [act-2.2](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D/tree/act-2.2) |
+| 2.3. Programación de botones | Aplicación interactiva 2D: Una noche junto al fuego | [Repositorio de la unidad 2](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D) | [act-2.3](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D/tree/act-2.3) |
 
 El proyecto de la unidad 2 continúa hasta la actividad 2.6. Las unidades 3 y 4 tendrán sus propios proyectos conforme a sus enunciados; se añadirán al índice cuando se inicien.
 
