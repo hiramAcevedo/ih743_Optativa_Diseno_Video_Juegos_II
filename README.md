@@ -1,10 +1,15 @@
 # IH743 Optativa Abierta III: Diseño de videojuegos II
 
-Índice de los proyectos de Optativa Abierta III, Diseño de videojuegos II (clave IH743, NRC 215440, sección D01), Licenciatura en Desarrollo de Sistemas Web, Universidad de Guadalajara, ciclo 2026-B.
+Índice de los proyectos de Optativa Abierta III, Diseño de videojuegos II (clave IH743), Licenciatura en Desarrollo de Sistemas Web, Universidad de Guadalajara, ciclo 2026-B.
 
 - Asesor: Oscar Gregorio Silva Mares.
 - Alumno: Hiram Agustín Acevedo López.
 - Versión de Unity utilizada: 6000.5.9f1 (Unity 6.5).
+
+Repositorios de la materia:
+
+- Este repositorio: índice de las entregas y proyecto "Hola mundo" de la unidad 1.
+- [Aplicación interactiva 2D, "Una noche junto al fuego"](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D): proyecto de la unidad 2, actividades 2.1 a 2.6, con una etiqueta por entrega.
 
 ## Proyectos y entregas
 
