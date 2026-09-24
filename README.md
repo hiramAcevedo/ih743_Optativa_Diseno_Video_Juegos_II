@@ -25,8 +25,9 @@ Por eso, los siguientes proyectos tendrán repositorios independientes. Dentro d
 | 2.3. Programación de botones | Aplicación interactiva 2D: Una noche junto al fuego | [Repositorio de la unidad 2](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D) | [act-2.3](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D/tree/act-2.3) |
 | 2.4. El bucle de juego y la animación | Aplicación interactiva 2D: Una noche junto al fuego | [Repositorio de la unidad 2](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D) | [act-2.4](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D/tree/act-2.4) |
 | 2.5. Detección de colisiones | Aplicación interactiva 2D: Una noche junto al fuego | [Repositorio de la unidad 2](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D) | [act-2.5](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D/tree/act-2.5) |
+| 2.6. El flujo de la interfaz | Aplicación interactiva 2D: Una noche junto al fuego | [Repositorio de la unidad 2](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D) | [act-2.6](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D/tree/act-2.6) |
 
-El proyecto de la unidad 2 continúa hasta la actividad 2.6. Las unidades 3 y 4 tendrán sus propios proyectos conforme a sus enunciados; se añadirán al índice cuando se inicien.
+El proyecto de la unidad 2 llegó hasta la actividad 2.6, con una etiqueta por entrega. Las unidades 3 y 4 tendrán sus propios proyectos conforme a sus enunciados; se añadirán al índice cuando se inicien.
 
 ## Abrir el hola mundo
 
