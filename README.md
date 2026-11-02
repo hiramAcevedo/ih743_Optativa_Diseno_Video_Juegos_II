@@ -10,6 +10,8 @@ Repositorios de la materia:
 
 - Este repositorio: índice de las entregas y proyecto "Hola mundo" de la unidad 1.
 - [Aplicación interactiva 2D, "Una noche junto al fuego"](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D): proyecto de la unidad 2, actividades 2.1 a 2.6, con una etiqueta por entrega.
+- [Videojuego 2D, "El recolector"](https://github.com/hiramAcevedo/ih743_Videojuego_2D): proyecto de la unidad 3, actividades 3.1 a 3.9, con una etiqueta y un release por entrega.
+- [Videojuego 3D, "Camión de ruta"](https://github.com/hiramAcevedo/ih743_Videojuego_3D): proyecto de la unidad 4 y del producto integrador, desde la actividad 4.1, con una etiqueta y un release por entrega.
 
 ## Proyectos y entregas
 
@@ -26,8 +28,18 @@ Por eso, los siguientes proyectos tendrán repositorios independientes. Dentro d
 | 2.4. El bucle de juego y la animación | Aplicación interactiva 2D: Una noche junto al fuego | [Repositorio de la unidad 2](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D) | [act-2.4](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D/tree/act-2.4) |
 | 2.5. Detección de colisiones | Aplicación interactiva 2D: Una noche junto al fuego | [Repositorio de la unidad 2](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D) | [act-2.5](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D/tree/act-2.5) |
 | 2.6. El flujo de la interfaz | Aplicación interactiva 2D: Una noche junto al fuego | [Repositorio de la unidad 2](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D) | [act-2.6](https://github.com/hiramAcevedo/ih743_Aplicacion_Interactiva_2D/tree/act-2.6) |
+| 3.1. La escena principal y la estructura del personaje | Videojuego 2D: El recolector | [Repositorio de la unidad 3](https://github.com/hiramAcevedo/ih743_Videojuego_2D) | [act-3.1](https://github.com/hiramAcevedo/ih743_Videojuego_2D/releases/tag/act-3.1) |
+| 3.2. Los prefabs | Videojuego 2D: El recolector | [Repositorio de la unidad 3](https://github.com/hiramAcevedo/ih743_Videojuego_2D) | [act-3.2](https://github.com/hiramAcevedo/ih743_Videojuego_2D/releases/tag/act-3.2) |
+| 3.3. Programación de mecánicas y físicas | Videojuego 2D: El recolector | [Repositorio de la unidad 3](https://github.com/hiramAcevedo/ih743_Videojuego_2D) | [act-3.3](https://github.com/hiramAcevedo/ih743_Videojuego_2D/releases/tag/act-3.3) |
+| 3.4. Configuración de la cámara | Videojuego 2D: El recolector | [Repositorio de la unidad 3](https://github.com/hiramAcevedo/ih743_Videojuego_2D) | [act-3.4](https://github.com/hiramAcevedo/ih743_Videojuego_2D/releases/tag/act-3.4) |
+| 3.5. El movimiento del jugador | Videojuego 2D: El recolector | [Repositorio de la unidad 3](https://github.com/hiramAcevedo/ih743_Videojuego_2D) | [act-3.5](https://github.com/hiramAcevedo/ih743_Videojuego_2D/releases/tag/act-3.5) |
+| 3.6. El movimiento de una bala | Videojuego 2D: El recolector | [Repositorio de la unidad 3](https://github.com/hiramAcevedo/ih743_Videojuego_2D) | [act-3.6](https://github.com/hiramAcevedo/ih743_Videojuego_2D/releases/tag/act-3.6) |
+| 3.7. Efectos de acción | Videojuego 2D: El recolector | [Repositorio de la unidad 3](https://github.com/hiramAcevedo/ih743_Videojuego_2D) | [act-3.7](https://github.com/hiramAcevedo/ih743_Videojuego_2D/releases/tag/act-3.7) |
+| 3.8. La conexión a base de datos | Videojuego 2D: El recolector | [Repositorio de la unidad 3](https://github.com/hiramAcevedo/ih743_Videojuego_2D) | [act-3.8](https://github.com/hiramAcevedo/ih743_Videojuego_2D/releases/tag/act-3.8) |
+| 3.9. Las pruebas de resultados: el paso final | Videojuego 2D: El recolector | [Repositorio de la unidad 3](https://github.com/hiramAcevedo/ih743_Videojuego_2D) | [act-3.9](https://github.com/hiramAcevedo/ih743_Videojuego_2D/releases/tag/act-3.9) |
+| 4.1. Una propuesta en 3D | Videojuego 3D: Camión de ruta (Universal 3D) | [Repositorio de la unidad 4](https://github.com/hiramAcevedo/ih743_Videojuego_3D) | [act-4.1](https://github.com/hiramAcevedo/ih743_Videojuego_3D/releases/tag/act-4.1) |
 
-El proyecto de la unidad 2 llegó hasta la actividad 2.6, con una etiqueta por entrega. Las unidades 3 y 4 tendrán sus propios proyectos conforme a sus enunciados; se añadirán al índice cuando se inicien.
+El proyecto de la unidad 2 llegó hasta la actividad 2.6 y el de la unidad 3, hasta la 3.9, cada uno con una etiqueta por entrega. El de la unidad 4 continúa hasta el producto integrador; sus entregas se agregan aquí conforme se hacen.
 
 ## Abrir el hola mundo
 
