@@ -38,6 +38,7 @@ Por eso, los siguientes proyectos tendrán repositorios independientes. Dentro d
 | 3.8. La conexión a base de datos | Videojuego 2D: El recolector | [Repositorio de la unidad 3](https://github.com/hiramAcevedo/ih743_Videojuego_2D) | [act-3.8](https://github.com/hiramAcevedo/ih743_Videojuego_2D/releases/tag/act-3.8) |
 | 3.9. Las pruebas de resultados: el paso final | Videojuego 2D: El recolector | [Repositorio de la unidad 3](https://github.com/hiramAcevedo/ih743_Videojuego_2D) | [act-3.9](https://github.com/hiramAcevedo/ih743_Videojuego_2D/releases/tag/act-3.9) |
 | 4.1. Una propuesta en 3D | Videojuego 3D: Camión de ruta (Universal 3D) | [Repositorio de la unidad 4](https://github.com/hiramAcevedo/ih743_Videojuego_3D) | [act-4.1](https://github.com/hiramAcevedo/ih743_Videojuego_3D/releases/tag/act-4.1) |
+| 4.2. Movimiento en el espacio tridimensional | Videojuego 3D: Camión de ruta | [Repositorio de la unidad 4](https://github.com/hiramAcevedo/ih743_Videojuego_3D) | [act-4.2](https://github.com/hiramAcevedo/ih743_Videojuego_3D/releases/tag/act-4.2) |
 
 El proyecto de la unidad 2 llegó hasta la actividad 2.6 y el de la unidad 3, hasta la 3.9, cada uno con una etiqueta por entrega. El de la unidad 4 continúa hasta el producto integrador; sus entregas se agregan aquí conforme se hacen.
 
